@@ -1,0 +1,54 @@
+# textdomain: nodeu
+Red Color=Colore rosso
+Orange Color=Colore arancione
+Grey Color=Colore grigio
+Yellow Color=Colore giallo
+Green Color=Colore verde
+Blue Color=Colore blu
+Violet Color=Colore viola
+Black Color=Colore nero
+White Color=Colore bianco
+Cyan Color=Colore ciano
+small bottle=Boccetta
+Red Sheet metal= Lamiera rossa
+Orange Sheet metal=Lamiera arancione
+Grey Sheet metal=Lamiera grigia
+Yellow Sheet metal=Lamiera gialla
+Green Sheet metal=Lamiera verde
+Blue Sheet metal=Lamiera blu
+Violet Sheet metal=Lamiera viola
+Black Sheet metal=Lamiera nera
+White Sheet metal=Lamiera bianca
+Cyan Sheet metal=Lamiera ciano
+Sheet metal white=Lamiera bianca
+Iron_bar=Barra di ferro
+Red DoorU=PortaU rossa
+Orange DoorU=PortaU arancione
+Cyan DoorU=PortaU ciano
+Yellow DoorU=PortaU gialla
+Green DoorU=PortaU verde
+Blue DoorU=PortaU blu
+Violet DoorU=PortaU viola
+Black DoorU=PortaU nera
+White DoorU=PortaU bianca
+Grey DoorU=PortaU grigia
+machined railing=Ringhiera lavorata
+corner machined railing=Angolo della Ringhiera lavorata
+machined railing 2=Ringhiera lavorata 2
+corner machined railing 2=Angolo della Ringhiera lavorata 2
+Red_Metal=Metallo rosso
+Orange_Metal=Metallo arancione
+Grey_Metal=Metallo grigio
+Yellow_Metal=Metallo giallo
+Green_Metal=Metallo verde
+Blue_Metal=Metallo blu
+Black_Metal=Metallo nero
+white_Metal=Metallo bianco
+Violet_Metal=Metallo viola
+Cyan_Metal=Metallo ciano
+Metal ladder whit handrail=Scaletta con passamano
+
+
+##### not used anymore #####
+
+red=Rosso
